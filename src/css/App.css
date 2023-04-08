@@ -1,0 +1,19 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.Header {
+  border-color: #474073;
+  border: 2px solid;
+  border-radius: 10px;
+  color: #474073;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 20px;
+  text-align: center;
+  position: sticky;
+}
+
+.Input {
+}
