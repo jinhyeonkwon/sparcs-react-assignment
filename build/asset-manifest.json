@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//jinhyeonkwon.github.io/sparcs-react-assignment/static/css/main.27978fac.css",
-    "main.js": "//jinhyeonkwon.github.io/sparcs-react-assignment/static/js/main.dc32fbcb.js",
-    "index.html": "//jinhyeonkwon.github.io/sparcs-react-assignment/index.html",
-    "main.27978fac.css.map": "//jinhyeonkwon.github.io/sparcs-react-assignment/static/css/main.27978fac.css.map",
-    "main.dc32fbcb.js.map": "//jinhyeonkwon.github.io/sparcs-react-assignment/static/js/main.dc32fbcb.js.map"
+    "main.css": "/sparcs-react-assignment/static/css/main.27978fac.css",
+    "main.js": "/sparcs-react-assignment/static/js/main.dc32fbcb.js",
+    "index.html": "/sparcs-react-assignment/index.html",
+    "main.27978fac.css.map": "/sparcs-react-assignment/static/css/main.27978fac.css.map",
+    "main.dc32fbcb.js.map": "/sparcs-react-assignment/static/js/main.dc32fbcb.js.map"
   },
   "entrypoints": [
     "static/css/main.27978fac.css",
