@@ -20,4 +20,5 @@
   - 중요도 필터 기능
   - table 태그를 이용해 할 일 목록 표시
   - github pages를 이용해 배포
+  - 서버 구성은 없음 (즉 새로고침 하면 리셋)
 - <a href="https://jinhyeonkwon.github.io/sparcs-react-assignment/">실행해 보기</a>
