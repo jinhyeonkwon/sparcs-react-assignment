@@ -14,5 +14,10 @@
   - (선택) netlify로 배포해보기
 
 - 실행 : npm start
-
-- <a href="https://github.com/jinhyeonkwon/sparcs-react-assignment">실행해 보기</a> : 현재 동작하지 않습니다
+- 구현한 것
+  - 할 일 목록 추가/제거
+  - 중요도, 제목, 내용, 기한 (내용 제외한 모든 항목 필수)
+  - 중요도 필터 기능
+  - table 태그를 이용해 할 일 목록 표시
+  - github pages를 이용해 배포
+- <a href="https://jinhyeonkwon.github.io/sparcs-react-assignment/">실행해 보기</a>
